@@ -45,7 +45,7 @@ This dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](coffee shop sales dashboard-preview.png)
+![Coffee Shop Sales Dashboard](coffee-shop-sales-dashboard-preview.png)
 
 ## Dataset
 
